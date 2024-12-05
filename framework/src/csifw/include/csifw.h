@@ -19,6 +19,7 @@
 #ifndef __CSIFW_H__
 #define __CSIFW_H__
 
+#include <errno.h>
 #include <sys/types.h>
 #include "csifw_log.h"
 #include "csifw/csifw_api.h"
